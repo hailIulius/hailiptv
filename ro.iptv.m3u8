@@ -189,7 +189,7 @@ https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 #EXTINF: -1 group-title="Ungrouped", TRAVEL MIX
 http://89.38.8.131:39520
 #EXTINF: -1 group-title="Ungrouped", TRINITAS TV - LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587432965/ei/pfmdXqKuK4my1gLDja6ABw/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/HMAMdBwmoTU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgFroZf7rpmekKPGVLG_v1bKhhxuamSOZ3rs2krJvi7vkCIAQ5geT4nkJsH4Jh-ohhF5b7LZfea6T_mPQ2KpCiHLe0/file/index.m3u8
+https://youtu.be/HMAMdBwmoTU
 #EXTINF: -1 group-title="Ungrouped", TV CITY
 http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF: -1 group-title="Ungrouped", TV SE
@@ -212,9 +212,3 @@ http://81.196.0.126/utvedge/utvlive/playlist.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF: -1 group-title="Ungrouped", VP TV
 http://89.38.8.130:39437
-#EXTINF: -1 group-title="Ungrouped", Watch Sky News live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587433032/ei/6PmdXo6mMMezgAeF8rP4DA/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAJvczNwmXgExhzOL8EvHG60oRfj8vmw0CHWQ89mb_AApAiAEQT9urqLoKpmiSlb3G_l-Cp1f73AngbmabLgXdMc8bw%3D%3D/file/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", World of Free Sports
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF: -1 group-title="Ungrouped", 🔴 Al Jazeera English | Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587433071/ei/D_qdXrqfEYWK1wKF_oTgBQ/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/WisZM9CMlTo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAMT7DzmNS7AGYPJEBfyZMSHbLhLSt4q5s76kXnbJryJ7AiEA7aIutLCaYIEImKSHwj4hu9cYeBVFyvB3uVoUGFte0yE%3D/file/index.m3u8
