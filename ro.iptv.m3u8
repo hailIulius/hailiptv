@@ -1,246 +1,220 @@
-#EXTINF:0,1 Music Channel
+#EXTINF: -1 group-title="Ungrouped",EN BBC NEWS
+http://51.52.156.22:8888/http/004
+#EXTINF: -1 group-title="Ungrouped",EN DW
+https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF: -1 group-title="Ungrouped",EN EURONEWS
+http://61.58.60.230:9319/live/129.m3u8
+#EXTINF: -1 group-title="Ungrouped",EN RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF: -1 group-title="Ungrouped",UK Al Jazeera Channel HD
+http://178.159.5.10:5637
+#EXTINF: -1 group-title="Ungrouped",UK Animal Planet
+http://178.159.5.10:7829
+#EXTINF: -1 group-title="Ungrouped",UK BBC Breakfast
+http://178.159.5.10:5040
+#EXTINF: -1 group-title="Ungrouped",UK BBC One N West
+http://178.159.5.10:6820
+#EXTINF: -1 group-title="Ungrouped",UK BT Sport 2
+http://178.159.5.10:10041
+#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 2
+http://178.159.5.10:5091
+#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 3
+http://178.159.5.10:5093
+#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 4
+http://178.159.5.10:5094
+#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 5
+http://178.159.5.10:5095
+#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 6
+http://178.159.5.10:5096
+#EXTINF: -1 group-title="Ungrouped",UK CNBC
+http://178.159.5.10:6810
+#EXTINF: -1 group-title="Ungrouped",UK Discovery History
+http://178.159.5.10:7830
+#EXTINF: -1 group-title="Ungrouped",UK eir Sport 1
+http://178.159.5.10:8118
+#EXTINF: -1 group-title="Ungrouped",UK Foodxp
+http://178.159.5.10:19109
+#EXTINF: -1 group-title="Ungrouped",UK Racing TV HD
+http://178.159.5.10:8338
+#EXTINF: -1 group-title="Ungrouped", 1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0,6 TV
+#EXTINF: -1 group-title="Ungrouped", 6 TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,A7 TV
+#EXTINF: -1 group-title="Ungrouped", A7 TV
 http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:0,Actualitatea TV
+#EXTINF: -1 group-title="Ungrouped", Actualitatea TV
 http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:0,Agro TV
+#EXTINF: -1 group-title="Ungrouped", Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Alfa Omega TV
+#EXTINF: -1 group-title="Ungrouped", Alfa Omega TV
 http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:0,Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Antena Comedy
+#EXTINF: -1 group-title="Ungrouped", ANIMAL PLANET (HU/RO)
+http://193.33.39.108:8107/30704
+#EXTINF: -1 group-title="Ungrouped", ANTENA 1 SD
+http://193.228.153.231:4240/bysid/40
+#EXTINF: -1 group-title="Ungrouped", Antena Comedy
 http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0,Antena Cook and PLay
+#EXTINF: -1 group-title="Ungrouped", Antena Cook and PLay
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:0,Antena Monden
+#EXTINF: -1 group-title="Ungrouped", Antena Monden
 http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0,B1
+#EXTINF: -1 group-title="Ungrouped", ARCADIA WORLD
+http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF: -1 group-title="Ungrouped", AXN BLACK (HU/RO)
+http://193.33.39.108:8111/11003
+#EXTINF: -1 group-title="Ungrouped", AXN WHITE (HU/RO)
+http://193.33.39.108:8111/11002
+#EXTINF: -1 group-title="Ungrouped", B1
 http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:0,Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:0,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:0,Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0,Columna TV
-rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:0,Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0,Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Diaspora TV
-http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-#EXTINF:0,1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:0,6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,A7 TV
-http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF:0,Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF:0,Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF:0,Alfa Omega TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF:0,Antena Cook and PLay
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF:0,Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF:0,B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF:0,Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF:0,Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF:0,Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF:0,Columna TV
-rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF:0,Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF:0,Credo TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$CredoTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Diaspora TV
-http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-#EXTINF:0,Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF:0,Erdely TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$ErdelyTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,EST TV Neamt
-http://89.38.8.130:39435
-#EXTINF:0,GTV
-rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF:0,Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Info HD
-http://163.172.172.80:8080/hls/InfoHd.m3u8
-#EXTINF:0,Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:0,Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF:0,MDI TV
-rtmp://89.33.78.174/live/livestream
-#EXTINF:0,MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:0,MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Muscel TV
-mmsh://musceltvlive.muscel.ro:8080
-#EXTINF:0,Orizont TV
-http://89.45.164.236:8048/stream.flv
-#EXTINF:0,Ploiesti TV
-rtmp://v1.arya.ro:1935/live/ptv1.flv
-#EXTINF:0,Pro X
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
-#EXTINF:0,Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF:0,Rapsodia TV
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF:0,Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF:0,Sangeorz TV
-http://s2.streamnet.ro:8035/stream.flv
-#EXTINF:0,Speranta TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,Telestar1
-http://s1.streamnet.ro:8053/stream.flv
-#EXTINF:0,Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:0,TravelMix
-http://89.38.8.131:39520
-#EXTINF:0,TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:0,TV SE
-http://89.38.8.130:39419
-#EXTINF:0,TVPlus Suceava
-http://85.186.146.34:8080
-#EXTINF:0,TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:0,TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:0,TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:0,TVR Cluj
-http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
-#EXTINF:0,TVR Craiova
-http://89.136.209.26:1935/liveedge/TVRCRAIOVA.stream/playlist.m3u8
-#EXTINF:0,TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:0,TVR Iasi
-http://82.208.151.107:8088/high/tvriasi/index.m3u8
-#EXTINF:0,TVR Timisoara
-http://89.136.209.26:1935/liveedge/TVRTIMISOARA.stream/playlist.m3u8
-#EXTINF:0,TRINITAS TV - LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587432965/ei/pfmdXqKuK4my1gLDja6ABw/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/HMAMdBwmoTU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgFroZf7rpmekKPGVLG_v1bKhhxuamSOZ3rs2krJvi7vkCIAQ5geT4nkJsH4Jh-ohhF5b7LZfea6T_mPQ2KpCiHLe0/file/index.m3u8
-#EXTINF:0,TVSat
-http://89.38.8.130:39443
-#EXTINF:0,UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF:0,VP TV
-http://89.38.8.130:39437
-#EXTINF:0,RO: Digi Sport 1
-http://104.218.60.145:83/Elonge/4049153347@/378282
-#EXTINF:0,RO: Digi Sport 2
-http://104.218.60.145:83/Elonge/4049153347@/378281
-#EXTINF:0,RO: Digi Sport 3
-http://104.218.60.145:83/Elonge/4049153347@/378280
-#EXTINF:0,RO: Digi Sport 4
-http://104.218.60.145:83/Elonge/4049153347@/378279
-#EXTINF:0,RO: DIGI WORLD
-http://104.218.60.145:83/Elonge/4049153347@/378278
-#EXTINF:0,RO: EUROSPORT 1
-http://104.218.60.145:83/Elonge/4049153347@/378274
-#EXTINF:0,RO: FISHING & HUNTING
-http://104.218.60.145:83/Elonge/4049153347@/378272
-#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/56283c8769ba54637dea0464/featuredImage.jpg" group-title="News & Analysis" - Service
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:0, tvg-logo="http://images.pluto.tv/channels/54173136ff9fba68282f4d53/featuredImage.jpg" group-title="News & Analysis" - Service
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:0, tvg-logo="https://computerforumz.files.wordpress.com/2015/01/twit_logo_wallpaper.png" group-title="News & Analysis" - UHLS
-http://iphone-streaming.ustream.tv/uhls/1524/streams/live/iphone/playlist.m3u8
-#EXTINF:0, tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg" group-title="" - Bloomberg US
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0, tvg-logo="https://woollydays.files.wordpress.com/2010/07/abcnews24.jpg" group-title="Australia" tvg-ID="abc-news.al" - ABC News Channel
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index.m3u8
-#EXTINF:0,🔴 Al Jazeera English | Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587433071/ei/D_qdXrqfEYWK1wKF_oTgBQ/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/WisZM9CMlTo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAMT7DzmNS7AGYPJEBfyZMSHbLhLSt4q5s76kXnbJryJ7AiEA7aIutLCaYIEImKSHwj4hu9cYeBVFyvB3uVoUGFte0yE%3D/file/index.m3u8
-#EXTINF:0,BBC World News
+#EXTINF: -1 group-title="Ungrouped", BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:0, tvg-logo="https://talkmediaafrica.com/wp-content/uploads/2015/01/AriseLG-1280x720.png" group-title="Africa" - Arise News
-https://embeddedplayer.visionip.tv/index.php?module=playlist&type=m3u8_mb&b2b=1&broadcastid=15718&protocolid=5&datarateid=3&user=AriseNew-VideoJS&www=www.arise.tv
-#EXTINF:0, tvg-logo="http://www.cbn.com/images8/cbnnews/CBN-OG.jpg" group-title="USA" - CBN News
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
-#EXTINF:0, tvg-logo="https://i.ytimg.com/vi/j5rcp8c0k9I/maxresdefault.jpg" group-title="China" tvg-ID="cgtn.info" - Cloudtrend Service
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:0, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/NDTV_247.svg" group-title="India" - NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:0, tvg-logo="http://dannews.co.nz/wp-content/uploads/2017/07/Press-TV-News-Live-Stream.jpg" group-title="Israel" tvg-ID="press-tv.uk" - Press TV
-https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/playlist.m3u8
-#EXTINF:0, tvg-logo="http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/russia-today-channel-images-logo-large.png" group-title="Russia" tvg-ID="russia-today.info" - RT News
-https://rt-news.secure.footprint.net/1103.m3u8
-#EXTINF:0, tvg-logo="https://the-latest.com/sites/default/files/RT%20-%20logo.jpeg" group-title="UK" tvg-ID="russia-today.info" - RT UK
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:0, tvg-logo="https://freebeacon.com/wp-content/uploads/2013/09/VOA.jpg" group-title="USA" - VOA
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8
-#EXTINF:0,Watch Sky News live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587433032/ei/6PmdXo6mMMezgAeF8rP4DA/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAJvczNwmXgExhzOL8EvHG60oRfj8vmw0CHWQ89mb_AApAiAEQT9urqLoKpmiSlb3G_l-Cp1f73AngbmabLgXdMc8bw%3D%3D/file/index.m3u8
-#EXTINF:0,Oireachtas TV
-https://oirlive.heanet.ie/oireachtas/ngrp:oireachtas.stream_all/chunklist_b1228000.m3u8
-#EXTINF:0,Dáil Éireann
-https://oirlive.heanet.ie/dail/ngrp:dail.stream_all/chunklist_b478000.m3u8
-#EXTINF:0,Seanad Éireann
-https://oirlive.heanet.ie/seanad/ngrp:seanad.stream_all/chunklist_b1228000.m3u8
-#EXTINF:0,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:0,Bloomberg EU
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
-#EXTINF:0,Bloomberg EU Event
+#EXTINF: -1 group-title="Ungrouped", Bit TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Bloomberg EU Event
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF:0,CGTN 
+#EXTINF: -1 group-title="Ungrouped", Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Canal33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+#EXTINF: -1 group-title="Ungrouped", CBS REALITY (HU/RO)
+http://193.33.39.108:8115/30905
+#EXTINF: -1 group-title="Ungrouped", CGTN
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:0,CGTN Documentary
+#EXTINF: -1 group-title="Ungrouped", CGTN Documentary
 http://live.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:0,Cruise1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
-#EXTINF:0,DSport
+#EXTINF: -1 group-title="Ungrouped", CINEMAX (HU/RO)
+http://193.33.39.108:8107/30709
+#EXTINF: -1 group-title="Ungrouped", CINEMAX 2 (HU/RO)
+http://193.33.39.108:8115/30914
+#EXTINF: -1 group-title="Ungrouped", Columna TV
+rtmp://columna1.arya.ro/live/columnatv1
+#EXTINF: -1 group-title="Ungrouped", Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Diaspora TV
+http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", DISCOVERY SCIENCE (HU/RO)
+http://193.33.39.108:8107/30706
+#EXTINF: -1 group-title="Ungrouped", DISCOVERY SHOWCASE (HU/RO)
+http://193.33.39.108:8105/31009
+#EXTINF: -1 group-title="Ungrouped", DSport
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF:0,Fashion TV
+#EXTINF: -1 group-title="Ungrouped", Elita TV
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF: -1 group-title="Ungrouped", EXTREME (HU/RO)
+http://193.33.39.108:8107/30701
+#EXTINF: -1 group-title="Ungrouped", Fashion TV
 http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:0,Filmon 360
+#EXTINF: -1 group-title="Ungrouped", FILMBOX (HU/RO)
+http://193.33.39.108:8101/1011
+#EXTINF: -1 group-title="Ungrouped", FILMBOX FAMILY (HU/RO)
+http://193.33.39.108:8102/30201
+#EXTINF: -1 group-title="Ungrouped", FILMBOX PLUS (HU/RO)
+http://193.33.39.108:8102/30217
+#EXTINF: -1 group-title="Ungrouped", Filmon 360
 https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF:0,Horizon Sports
+#EXTINF: -1 group-title="Ungrouped", GTV
+rtmp://gtv1.arya.ro:1935/live/gtv1.flv
+#EXTINF: -1 group-title="Ungrouped", HBO 2 (HU/RO)
+http://193.33.39.108:8107/30705
+#EXTINF: -1 group-title="Ungrouped", HISTORY (HU/RO)
+http://193.33.39.108:8113/31114
+#EXTINF: -1 group-title="Ungrouped", Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF:0,JattTV
-https://edge.hls.hitbox.tv/hls/desijattuk/index.m3u8?st=nuYxAHesRw4B-jHQap9LVQ;ci=mXwDmlmieHsjswZTZpoFyA
-#EXTINF:0,MTA 1
-https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
-#EXTINF:0,MTA 2
-https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
-#EXTINF:0,Primal Living TV
+#EXTINF: -1 group-title="Ungrouped", Inedit
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF: -1 group-title="Ungrouped", Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", KANAL D SD
+http://193.228.153.231:4240/bysid/50
+#EXTINF: -1 group-title="Ungrouped", Kaptial TV
+http://163.172.172.80:8080/hls/livestream.m3u8
+#EXTINF: -1 group-title="Ungrouped", MDI TV
+rtmp://89.33.78.174/live/livestream
+#EXTINF: -1 group-title="Ungrouped", MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF: -1 group-title="Ungrouped", MOOZ HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF: -1 group-title="Ungrouped", MOOZ Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF: -1 group-title="Ungrouped", MOOZ RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF: -1 group-title="Ungrouped", Muscel TV
+mmsh://musceltvlive.muscel.ro:8080
+#EXTINF: -1 group-title="Ungrouped", NATIONAL 24 PLUS SD
+http://193.228.153.231:4243/bysid/537
+#EXTINF: -1 group-title="Ungrouped", Orizont TV
+http://89.45.164.236:8048/stream.flv
+#EXTINF: -1 group-title="Ungrouped", Ploiesti TV
+rtmp://v1.arya.ro:1935/live/ptv1.flv
+#EXTINF: -1 group-title="Ungrouped", PRIMA SD
+http://193.228.153.231:4242/bysid/60
+#EXTINF: -1 group-title="Ungrouped", Primal Living TV
 https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF:0,Sheffield Live 93.2 FM
-http://tv.sheffieldlive.org/hls/main.m3u8
-#EXTINF:0,RT UK
+#EXTINF: -1 group-title="Ungrouped", PRO CINEMA SD
+http://193.228.153.231:4241/bysid/340
+#EXTINF: -1 group-title="Ungrouped", PRO TV
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+#EXTINF: -1 group-title="Ungrouped", PRO TV INTERNATIONAL
+http://78.109.108.62:2001/protv
+#EXTINF: -1 group-title="Ungrouped", Pro X
+http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
+#EXTINF: -1 group-title="Ungrouped", Profit.ro
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Rapsodia TV
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF: -1 group-title="Ungrouped", Realitatea TV
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 1
+http://104.218.60.145:83/Elonge/4049153347@/378282
+#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 2
+http://104.218.60.145:83/Elonge/4049153347@/378281
+#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 3
+http://104.218.60.145:83/Elonge/4049153347@/378280
+#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 4
+http://104.218.60.145:83/Elonge/4049153347@/378279
+#EXTINF: -1 group-title="Ungrouped", RO: DIGI WORLD
+http://104.218.60.145:83/Elonge/4049153347@/378278
+#EXTINF: -1 group-title="Ungrouped", RO: EUROSPORT 1
+http://104.218.60.145:83/Elonge/4049153347@/378274
+#EXTINF: -1 group-title="Ungrouped", RO: FISHING & HUNTING
+http://104.218.60.145:83/Elonge/4049153347@/378272
+#EXTINF: -1 group-title="Ungrouped", RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF:0,Sports Tonight
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:0,TG4
+#EXTINF: -1 group-title="Ungrouped", Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TG4
 http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:0,The Boat Show
+#EXTINF: -1 group-title="Ungrouped", The Boat Show
 https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-#EXTINF:0,Venus TV
+#EXTINF: -1 group-title="Ungrouped", TRAVEL MIX
+http://89.38.8.131:39520
+#EXTINF: -1 group-title="Ungrouped", TRINITAS TV - LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587432965/ei/pfmdXqKuK4my1gLDja6ABw/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/HMAMdBwmoTU.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRAIgFroZf7rpmekKPGVLG_v1bKhhxuamSOZ3rs2krJvi7vkCIAQ5geT4nkJsH4Jh-ohhF5b7LZfea6T_mPQ2KpCiHLe0/file/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", TV CITY
+http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF: -1 group-title="Ungrouped", TV SE
+http://89.38.8.130:39419
+#EXTINF: -1 group-title="Ungrouped", TVPlus Suceava
+http://85.186.146.34:8080
+#EXTINF: -1 group-title="Ungrouped", TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", TVSat
+http://89.38.8.130:39443
+#EXTINF: -1 group-title="Ungrouped", UTV
+http://81.196.0.126/utvedge/utvlive/playlist.m3u8
+#EXTINF: -1 group-title="Ungrouped", Venus TV
 https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF:0,World of Free Sports
+#EXTINF: -1 group-title="Ungrouped", VP TV
+http://89.38.8.130:39437
+#EXTINF: -1 group-title="Ungrouped", Watch Sky News live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587433032/ei/6PmdXo6mMMezgAeF8rP4DA/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/9Auq9mYxFEE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAJvczNwmXgExhzOL8EvHG60oRfj8vmw0CHWQ89mb_AApAiAEQT9urqLoKpmiSlb3G_l-Cp1f73AngbmabLgXdMc8bw%3D%3D/file/index.m3u8
+#EXTINF: -1 group-title="Ungrouped", World of Free Sports
 https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTINF: -1 group-title="Ungrouped", 🔴 Al Jazeera English | Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1587433071/ei/D_qdXrqfEYWK1wKF_oTgBQ/ip/2a02%3A2f0b%3A8b0c%3A3a00%3A71ef%3A1e5e%3Ac5d4%3Ac6d4/id/WisZM9CMlTo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/beids/9466585/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhAMT7DzmNS7AGYPJEBfyZMSHbLhLSt4q5s76kXnbJryJ7AiEA7aIutLCaYIEImKSHwj4hu9cYeBVFyvB3uVoUGFte0yE%3D/file/index.m3u8
