@@ -194,3 +194,11 @@ http://81.196.0.126/utvedge/utvlive/playlist.m3u8
 https://a.jsrdn.com/rtmp/22690/index.m3u8
 #EXTINF: -1 group-title="Ungrouped", VP TV
 http://89.38.8.130:39437
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" tvg-country="RO" tvg-url="" group-title="Ungrouped",TravelMix
+http://89.38.8.131:39520
+#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Ungrouped",CGTN Documentary
+https://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-country="US" tvg-url="" group-title="Ungrouped",DocuBox HD
+http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="Ungrouped",Rotana Classic
+http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
