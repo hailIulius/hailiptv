@@ -1,5 +1,3 @@
-#EXTINF: -1 group-title="Ungrouped",EN BBC NEWS
-http://51.52.156.22:8888/http/004
 #EXTINF: -1 group-title="Ungrouped",EN DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF: -1 group-title="Ungrouped",EN EURONEWS
@@ -164,20 +162,6 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 #EXTINF: -1 group-title="Ungrouped", Realitatea TV
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 1
-http://104.218.60.145:83/Elonge/4049153347@/378282
-#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 2
-http://104.218.60.145:83/Elonge/4049153347@/378281
-#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 3
-http://104.218.60.145:83/Elonge/4049153347@/378280
-#EXTINF: -1 group-title="Ungrouped", RO: Digi Sport 4
-http://104.218.60.145:83/Elonge/4049153347@/378279
-#EXTINF: -1 group-title="Ungrouped", RO: DIGI WORLD
-http://104.218.60.145:83/Elonge/4049153347@/378278
-#EXTINF: -1 group-title="Ungrouped", RO: EUROSPORT 1
-http://104.218.60.145:83/Elonge/4049153347@/378274
-#EXTINF: -1 group-title="Ungrouped", RO: FISHING & HUNTING
-http://104.218.60.145:83/Elonge/4049153347@/378272
 #EXTINF: -1 group-title="Ungrouped", RT UK
 http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF: -1 group-title="Ungrouped", Tezaur TV
@@ -188,8 +172,6 @@ http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
 https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 #EXTINF: -1 group-title="Ungrouped", TRAVEL MIX
 http://89.38.8.131:39520
-#EXTINF: -1 group-title="Ungrouped", TRINITAS TV - LIVE
-https://youtu.be/HMAMdBwmoTU
 #EXTINF: -1 group-title="Ungrouped", TV CITY
 http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF: -1 group-title="Ungrouped", TV SE
