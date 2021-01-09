@@ -1,208 +1,254 @@
-#EXTINF: -1 group-title="Ungrouped",EN DW
+#EXTINF: -1 group-title="RO",EN DW
 https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF: -1 group-title="Ungrouped",EN EURONEWS
+#EXTINF: -1 group-title="RO",EN EURONEWS
 http://61.58.60.230:9319/live/129.m3u8
-#EXTINF: -1 group-title="Ungrouped",EN RT Documentary
-http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
-#EXTINF: -1 group-title="Ungrouped",UK Al Jazeera Channel HD
-http://178.159.5.10:5637
-#EXTINF: -1 group-title="Ungrouped",UK Animal Planet
-http://178.159.5.10:7829
-#EXTINF: -1 group-title="Ungrouped",UK BBC Breakfast
-http://178.159.5.10:5040
-#EXTINF: -1 group-title="Ungrouped",UK BBC One N West
-http://178.159.5.10:6820
-#EXTINF: -1 group-title="Ungrouped",UK BT Sport 2
-http://178.159.5.10:10041
-#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 2
-http://178.159.5.10:5091
-#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 3
-http://178.159.5.10:5093
-#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 4
-http://178.159.5.10:5094
-#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 5
-http://178.159.5.10:5095
-#EXTINF: -1 group-title="Ungrouped",UK BT Sport Extra 6
-http://178.159.5.10:5096
-#EXTINF: -1 group-title="Ungrouped",UK CNBC
-http://178.159.5.10:6810
-#EXTINF: -1 group-title="Ungrouped",UK Discovery History
-http://178.159.5.10:7830
-#EXTINF: -1 group-title="Ungrouped",UK eir Sport 1
-http://178.159.5.10:8118
-#EXTINF: -1 group-title="Ungrouped",UK Foodxp
-http://178.159.5.10:19109
-#EXTINF: -1 group-title="Ungrouped",UK Racing TV HD
-http://178.159.5.10:8338
-#EXTINF: -1 group-title="Ungrouped", 1 Music Channel
+#EXTINF: -1 group-title="RO", 1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", 6 TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", A7 TV
-http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
-#EXTINF: -1 group-title="Ungrouped", Actualitatea TV
-http://46.214.146.46:81/tv4/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Agro TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", Alfa Omega TV
-http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8?wowzasessionid=1441530266&time=1463063123262
-#EXTINF: -1 group-title="Ungrouped", ANIMAL PLANET (HU/RO)
-http://193.33.39.108:8107/30704
-#EXTINF: -1 group-title="Ungrouped", ANTENA 1 SD
-http://193.228.153.231:4240/bysid/40
-#EXTINF: -1 group-title="Ungrouped", Antena Comedy
-http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Antena Cook and PLay
-http://stream1.antenaplay.ro/live/smil:CookPlay.smil/chunklist_w904193915_b1000000.m3u8
-#EXTINF: -1 group-title="Ungrouped", Antena Monden
-http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", ARCADIA WORLD
-http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF: -1 group-title="Ungrouped", AXN BLACK (HU/RO)
-http://193.33.39.108:8111/11003
-#EXTINF: -1 group-title="Ungrouped", AXN WHITE (HU/RO)
-http://193.33.39.108:8111/11002
-#EXTINF: -1 group-title="Ungrouped", B1
-http://stream.adunity.com/b1/b1_640-.m3u8
-#EXTINF: -1 group-title="Ungrouped", BBC World News
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", Bit TV
-http://46.214.146.46:81/tv2/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Bloomberg EU Event
-https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_event.m3u8
-#EXTINF: -1 group-title="Ungrouped", Bucovina TV
-http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Canal33
-https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
-#EXTINF: -1 group-title="Ungrouped", CBS REALITY (HU/RO)
-http://193.33.39.108:8115/30905
-#EXTINF: -1 group-title="Ungrouped", CGTN
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF: -1 group-title="Ungrouped", CGTN Documentary
-http://live.cgtn.com/1000d/prog_index.m3u8
-#EXTINF: -1 group-title="Ungrouped", CINEMAX (HU/RO)
-http://193.33.39.108:8107/30709
-#EXTINF: -1 group-title="Ungrouped", CINEMAX 2 (HU/RO)
-http://193.33.39.108:8115/30914
-#EXTINF: -1 group-title="Ungrouped", Columna TV
-rtmp://columna1.arya.ro/live/columnatv1
-#EXTINF: -1 group-title="Ungrouped", Credo TV
-http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Diaspora TV
-http://diasporamedia.go.ro:1935/diasporatv/live/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", DISCOVERY SCIENCE (HU/RO)
-http://193.33.39.108:8107/30706
-#EXTINF: -1 group-title="Ungrouped", DISCOVERY SHOWCASE (HU/RO)
-http://193.33.39.108:8105/31009
-#EXTINF: -1 group-title="Ungrouped", DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
-#EXTINF: -1 group-title="Ungrouped", Elita TV
-http://46.55.111.242:8080/Rezina.m3u8
-#EXTINF: -1 group-title="Ungrouped", EXTREME (HU/RO)
-http://193.33.39.108:8107/30701
-#EXTINF: -1 group-title="Ungrouped", Fashion TV
-http://entertainment.ashttp9.visionip.tv/live/visiontvuk-entertainment-edgytv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF: -1 group-title="Ungrouped", FILMBOX (HU/RO)
-http://193.33.39.108:8101/1011
-#EXTINF: -1 group-title="Ungrouped", FILMBOX FAMILY (HU/RO)
-http://193.33.39.108:8102/30201
-#EXTINF: -1 group-title="Ungrouped", FILMBOX PLUS (HU/RO)
-http://193.33.39.108:8102/30217
-#EXTINF: -1 group-title="Ungrouped", Filmon 360
-https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", GTV
-rtmp://gtv1.arya.ro:1935/live/gtv1.flv
-#EXTINF: -1 group-title="Ungrouped", HBO 2 (HU/RO)
-http://193.33.39.108:8107/30705
-#EXTINF: -1 group-title="Ungrouped", HISTORY (HU/RO)
-http://193.33.39.108:8113/31114
-#EXTINF: -1 group-title="Ungrouped", Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-#EXTINF: -1 group-title="Ungrouped", Inedit
-http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", Intermedia TV
-http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", KANAL D SD
-http://193.228.153.231:4240/bysid/50
-#EXTINF: -1 group-title="Ungrouped", Kaptial TV
-http://163.172.172.80:8080/hls/livestream.m3u8
-#EXTINF: -1 group-title="Ungrouped", MDI TV
-rtmp://89.33.78.174/live/livestream
-#EXTINF: -1 group-title="Ungrouped", MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", MOOZ HD
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", MOOZ Hits
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", MOOZ RO
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", Muscel TV
-mmsh://musceltvlive.muscel.ro:8080
-#EXTINF: -1 group-title="Ungrouped", NATIONAL 24 PLUS SD
-http://193.228.153.231:4243/bysid/537
-#EXTINF: -1 group-title="Ungrouped", Orizont TV
-http://89.45.164.236:8048/stream.flv
-#EXTINF: -1 group-title="Ungrouped", Ploiesti TV
-rtmp://v1.arya.ro:1935/live/ptv1.flv
-#EXTINF: -1 group-title="Ungrouped", PRIMA SD
-http://193.228.153.231:4242/bysid/60
-#EXTINF: -1 group-title="Ungrouped", Primal Living TV
-https://57d4d8b1e4f4f.streamlock.net/primalcure/livestream/chunklist.m3u8
-#EXTINF: -1 group-title="Ungrouped", PRO CINEMA SD
-http://193.228.153.231:4241/bysid/340
-#EXTINF: -1 group-title="Ungrouped", PRO TV
-https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
-#EXTINF: -1 group-title="Ungrouped", PRO TV INTERNATIONAL
-http://78.109.108.62:2001/protv
-#EXTINF: -1 group-title="Ungrouped", Pro X
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8
-#EXTINF: -1 group-title="Ungrouped", Profit.ro
-https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Rapsodia TV
-rtmp://rapsodia1.arya.ro/live/rapsodiatv1
-#EXTINF: -1 group-title="Ungrouped", Realitatea TV
-http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", RT UK
-http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-#EXTINF: -1 group-title="Ungrouped", Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF: -1 group-title="Ungrouped", The Boat Show
-https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-#EXTINF: -1 group-title="Ungrouped", TRAVEL MIX
-http://89.38.8.131:39520
-#EXTINF: -1 group-title="Ungrouped", TV CITY
-http://telekomtv-ro.akamaized.net/shls/LIVE$TVCITY/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF: -1 group-title="Ungrouped", TV SE
-http://89.38.8.130:39419
-#EXTINF: -1 group-title="Ungrouped", TVPlus Suceava
-http://85.186.146.34:8080
-#EXTINF: -1 group-title="Ungrouped", TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", TVR HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", TVSat
-http://89.38.8.130:39443
-#EXTINF: -1 group-title="Ungrouped", UTV
-http://81.196.0.126/utvedge/utvlive/playlist.m3u8
-#EXTINF: -1 group-title="Ungrouped", Venus TV
-https://a.jsrdn.com/rtmp/22690/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", VP TV
-http://89.38.8.130:39437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Romanian" tvg-logo="https://i.ibb.co/VMbKQCr/travel-mix-RO.jpg" tvg-country="RO" tvg-url="" group-title="Ungrouped",TravelMix
-http://89.38.8.131:39520
-#EXTINF:-1 tvg-id="472" tvg-name="CGTNDocumentary" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Ungrouped",CGTN Documentary
-https://live.cgtn.com/cctv-d.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/rnQMXRm.jpg" tvg-country="US" tvg-url="" group-title="Ungrouped",DocuBox HD
-http://livecdnh3.tvanywhere.ae/hls/docubox/04.m3u8
-#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="Ungrouped",Rotana Classic
-http://livecdnh3.tvanywhere.ae/hls/rotclassic/index.m3u8
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TVR1.png" group-title="RO",|RO| TVR 1
+http://bestott.net:80/9122818D7345/C5C866476266/68786
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TVR2.png" group-title="RO",|RO| TVR 2
+http://bestott.net:80/9122818D7345/C5C866476266/68788
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TVR3.png" group-title="RO",|RO| TVR 3
+http://bestott.net:80/9122818D7345/C5C866476266/68789
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TVR HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TVR1.png" group-title="RO",|RO| TVR HD
+http://bestott.net:80/9122818D7345/C5C866476266/68790
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ROMANIA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ROMANIAATV.png" group-title="RO",|RO| ROMANIA TV
+http://bestott.net:80/9122818D7345/C5C866476266/68791
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANTENA 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ANTENA1.png" group-title="RO",|RO| ANTENA 1 HD
+http://bestott.net:80/9122818D7345/C5C866476266/68792
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANTENA 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ANTENAA3.png" group-title="RO",|RO| ANTENA 3
+http://bestott.net:80/9122818D7345/C5C866476266/68793
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PROTV HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PROTV HD
+http://bestott.net:80/9122818D7345/C5C866476266/68795
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PRO TV
+http://bestott.net:80/9122818D7345/C5C866476266/68796
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PRO 2
+http://bestott.net:80/9122818D7345/C5C866476266/68797
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO X" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PRO X
+http://bestott.net:80/9122818D7345/C5C866476266/68798
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI WORLD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGIANIMALWORLD.png" group-title="RO",|RO| DIGI WORLD
+http://bestott.net:80/9122818D7345/C5C866476266/68799
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI LIFE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGILIFE.png" group-title="RO",|RO| DIGI LIFE
+http://bestott.net:80/9122818D7345/C5C866476266/68800
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AXN WHITE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/AXNWHITE.png" group-title="RO",|RO| AXN WHITE
+http://bestott.net:80/9122818D7345/C5C866476266/68801
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AXN ROMANIA" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/AXNROMANIA.png" group-title="RO",|RO| AXN ROMANIA
+http://bestott.net:80/9122818D7345/C5C866476266/68802
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AXN BLACK" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/AXN.png" group-title="RO",|RO| AXN BLACK
+http://bestott.net:80/9122818D7345/C5C866476266/68803
+#EXTINF:-1 tvg-id="" tvg-name="|RO| B1 TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/B1.png" group-title="RO",|RO| B1 TV
+http://bestott.net:80/9122818D7345/C5C866476266/68804
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DTX" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DTX.png" group-title="RO",|RO| DTX
+http://bestott.net:80/9122818D7345/C5C866476266/68805
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HAPPY CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HAPPYCHANNEL.png" group-title="RO",|RO| HAPPY CHANNEL
+http://bestott.net:80/9122818D7345/C5C866476266/68807
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO Romania" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HBO.png" group-title="RO",|RO| HBO Romania
+http://bestott.net:80/9122818D7345/C5C866476266/68808
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO HD RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HBO.png" group-title="RO",|RO| HBO HD RO
+http://bestott.net:80/9122818D7345/C5C866476266/68809
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HBO.png" group-title="RO",|RO| HBO2
+http://bestott.net:80/9122818D7345/C5C866476266/68810
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO 3 RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HBO.png" group-title="RO",|RO| HBO 3 RO
+http://bestott.net:80/9122818D7345/C5C866476266/68811
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HBO 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HBO.png" group-title="RO",|RO| HBO 3
+http://bestott.net:80/9122818D7345/C5C866476266/68812
+#EXTINF:-1 tvg-id="" tvg-name="|RO| E! ENTERTAINMENT" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/E.png" group-title="RO",|RO| E! ENTERTAINMENT
+http://bestott.net:80/9122818D7345/C5C866476266/68813
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HORA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HORA.png" group-title="RO",|RO| HORA TV
+http://bestott.net:80/9122818D7345/C5C866476266/68814
+#EXTINF:-1 tvg-id="" tvg-name="|RO| JIMJAM" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/JIMJAM.png" group-title="RO",|RO| JIMJAM
+http://bestott.net:80/9122818D7345/C5C866476266/68815
+#EXTINF:-1 tvg-id="" tvg-name="|RO| KANAL D" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/KANALD.png" group-title="RO",|RO| KANAL D
+http://bestott.net:80/9122818D7345/C5C866476266/68816
+#EXTINF:-1 tvg-id="" tvg-name="|RO| KISS TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/KIISS.png" group-title="RO",|RO| KISS TV
+http://bestott.net:80/9122818D7345/C5C866476266/68817
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOK PLUS HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKPLUS.png" group-title="RO",|RO| LOOK PLUS HD
+http://bestott.net:80/9122818D7345/C5C866476266/68818
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOKPLUS" tvg-logo="" group-title="RO",|RO| LOOKPLUS
+http://bestott.net:80/9122818D7345/C5C866476266/68819
+#EXTINF:-1 tvg-id="" tvg-name="|RO| NATIONAL TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/NATIONALTV.png" group-title="RO",|RO| NATIONAL TV
+http://bestott.net:80/9122818D7345/C5C866476266/68820
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRIMA TV RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PRIMATV.png" group-title="RO",|RO| PRIMA TV RO
+http://bestott.net:80/9122818D7345/C5C866476266/68821
+#EXTINF:-1 tvg-id="" tvg-name="|RO| REALITATEA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/REALITATEA.png" group-title="RO",|RO| REALITATEA TV
+http://bestott.net:80/9122818D7345/C5C866476266/68822
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TNT RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TNTHD.png" group-title="RO",|RO| TNT RO
+http://bestott.net:80/9122818D7345/C5C866476266/68824
+#EXTINF:-1 tvg-id="" tvg-name="|RO| NGRO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" group-title="RO",|RO| NGRO
+http://bestott.net:80/9122818D7345/C5C866476266/68825
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FINE LIVING" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FIENLIVING.png" group-title="RO",|RO| FINE LIVING
+http://bestott.net:80/9122818D7345/C5C866476266/68827
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ETNO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ETNO.png" group-title="RO",|RO| ETNO
+http://bestott.net:80/9122818D7345/C5C866476266/68828
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DOCUBOX" tvg-logo="" group-title="RO",|RO| DOCUBOX
+http://bestott.net:80/9122818D7345/C5C866476266/68830
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIVA" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIVA.png" group-title="RO",|RO| DIVA
+http://bestott.net:80/9122818D7345/C5C866476266/68831
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DAVINCI LEARNING" tvg-logo="" group-title="RO",|RO| DAVINCI LEARNING
+http://bestott.net:80/9122818D7345/C5C866476266/68832
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TRAVEL CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TRAVELCHANNEL.png" group-title="RO",|RO| TRAVEL CHANNEL
+http://bestott.net:80/9122818D7345/C5C866476266/68834
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TV PAPRIKA" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TVPAPRIKA.png" group-title="RO",|RO| TV PAPRIKA
+http://bestott.net:80/9122818D7345/C5C866476266/68835
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ZU TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ZUTV.png" group-title="RO",|RO| ZU TV
+http://bestott.net:80/9122818D7345/C5C866476266/68836
+#EXTINF:-1 tvg-id="" tvg-name="|RO| U TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/UTV.png" group-title="RO",|RO| U TV
+http://bestott.net:80/9122818D7345/C5C866476266/68837
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TV 1000" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TV1000.png" group-title="RO",|RO| TV 1000
+http://bestott.net:80/9122818D7345/C5C866476266/68839
+#EXTINF:-1 tvg-id="" tvg-name="|RO| SPERANTA TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/SPERANTA.png" group-title="RO",|RO| SPERANTA TV
+http://bestott.net:80/9122818D7345/C5C866476266/68841
+#EXTINF:-1 tvg-id="" tvg-name="##### |RO| KIDS #####" tvg-logo="" group-title="RO",##### |RO| KIDS #####
+http://bestott.net:80/9122818D7345/C5C866476266/68843
+#EXTINF:-1 tvg-id="" tvg-name="|RO| BOOMERANG" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/BOOMERANG.png" group-title="RO",|RO| BOOMERANG
+http://bestott.net:80/9122818D7345/C5C866476266/68844
+#EXTINF:-1 tvg-id="" tvg-name="|RO| CARTOON" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/CARTOONNETWORK.png" group-title="RO",|RO| CARTOON
+http://bestott.net:80/9122818D7345/C5C866476266/68845
+#EXTINF:-1 tvg-id="" tvg-name="|RO| CARTOON NETWORK" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/CARTOONNETWORK.png" group-title="RO",|RO| CARTOON NETWORK
+http://bestott.net:80/9122818D7345/C5C866476266/68846
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISNEY ROM" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISNEYROM.png" group-title="RO",|RO| DISNEY ROM
+http://bestott.net:80/9122818D7345/C5C866476266/68847
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISNEY JR" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISNEYJR.png" group-title="RO",|RO| DISNEY JR
+http://bestott.net:80/9122818D7345/C5C866476266/68848
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISNEY CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISNEYROM.png" group-title="RO",|RO| DISNEY CHANNEL
+http://bestott.net:80/9122818D7345/C5C866476266/68849
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MINIMAX" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MINIMAX.png" group-title="RO",|RO| MINIMAX
+http://bestott.net:80/9122818D7345/C5C866476266/68850
+#EXTINF:-1 tvg-id="" tvg-name="##### |RO| CINEMA #####" tvg-logo="http://logo.panel.cx/logo/FLAGS/flag_romania.png" group-title="RO",##### |RO| CINEMA #####
+http://bestott.net:80/9122818D7345/C5C866476266/68851
+#EXTINF:-1 tvg-id="" tvg-name="|RO| CINEMAX 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/CINEMAX.png" group-title="RO",|RO| CINEMAX 2
+http://bestott.net:80/9122818D7345/C5C866476266/68852
+#EXTINF:-1 tvg-id="" tvg-name="|RO| CINEMAX" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/CINEMAX.png" group-title="RO",|RO| CINEMAX
+http://bestott.net:80/9122818D7345/C5C866476266/68853
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX PREMIUM" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FILMBOXPREMIUM.png" group-title="RO",|RO| FILMBOX PREMIUM
+http://bestott.net:80/9122818D7345/C5C866476266/68855
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX EXTRA HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" group-title="RO",|RO| FILMBOX EXTRA HD
+http://bestott.net:80/9122818D7345/C5C866476266/68856
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILMBOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FILMBOXEXTRA.png" group-title="RO",|RO| FILMBOX
+http://bestott.net:80/9122818D7345/C5C866476266/68857
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILM NOW" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FILMNOW.png" group-title="RO",|RO| FILM NOW
+http://bestott.net:80/9122818D7345/C5C866476266/68858
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FILM CAFE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FILMCAFE.png" group-title="RO",|RO| FILM CAFE
+http://bestott.net:80/9122818D7345/C5C866476266/68859
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO GOLD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PRO GOLD
+http://bestott.net:80/9122818D7345/C5C866476266/68860
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO CINEMA" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PRO CINEMA
+http://bestott.net:80/9122818D7345/C5C866476266/68861
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MEGAMAX" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MEGAMAX.png" group-title="RO",|RO| MEGAMAX
+http://bestott.net:80/9122818D7345/C5C866476266/68862
+#EXTINF:-1 tvg-id="" tvg-name="|RO| CINEMARATON" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/CINEMARATOON.png" group-title="RO",|RO| CINEMARATON
+http://bestott.net:80/9122818D7345/C5C866476266/68863
+#EXTINF:-1 tvg-id="" tvg-name="|RO| CBS REALITY" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/CBS%20REALITY.png" group-title="RO",|RO| CBS REALITY
+http://bestott.net:80/9122818D7345/C5C866476266/68864
+#EXTINF:-1 tvg-id="" tvg-name="|RO| BOLLYWOOD TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/BOLLYWOOD.png" group-title="RO",|RO| BOLLYWOOD TV
+http://bestott.net:80/9122818D7345/C5C866476266/68865
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANTENA 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ANTENA1.png" group-title="RO",|RO| ANTENA 1
+http://bestott.net:80/9122818D7345/C5C866476266/68866
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AMC RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/AMCHD.png" group-title="RO",|RO| AMC RO
+http://bestott.net:80/9122818D7345/C5C866476266/68867
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AGRO TV" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/AGRO.png" group-title="RO",|RO| AGRO TV
+http://bestott.net:80/9122818D7345/C5C866476266/68868
+#EXTINF:-1 tvg-id="" tvg-name="##### |RO| DISCOVERY #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" group-title="RO",##### |RO| DISCOVERY #####
+http://bestott.net:80/9122818D7345/C5C866476266/68869
+#EXTINF:-1 tvg-id="" tvg-name="|RO| NATIONAL GEOGRAPHIC RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/NATIONALGEOGRAPHIC.png" group-title="RO",|RO| NATIONAL GEOGRAPHIC RO
+http://bestott.net:80/9122818D7345/C5C866476266/68870
+#EXTINF:-1 tvg-id="" tvg-name="|RO| NAT GEO WILD HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/NATGEOWILDHD.png" group-title="RO",|RO| NAT GEO WILD HD
+http://bestott.net:80/9122818D7345/C5C866476266/68871
+#EXTINF:-1 tvg-id="" tvg-name="|RO| INVESTIGATION DISCOVERY" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/INVESTIGATIONDISCOVERY.png" group-title="RO",|RO| INVESTIGATION DISCOVERY
+http://bestott.net:80/9122818D7345/C5C866476266/68873
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISCOVERY SCIENCE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" group-title="RO",|RO| DISCOVERY SCIENCE
+http://bestott.net:80/9122818D7345/C5C866476266/68874
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISCOVERY RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" group-title="RO",|RO| DISCOVERY RO
+http://bestott.net:80/9122818D7345/C5C866476266/68875
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISCOVERY HD SHOWCASE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" group-title="RO",|RO| DISCOVERY HD SHOWCASE
+http://bestott.net:80/9122818D7345/C5C866476266/68876
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DISCOVERY CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DISCOVERYCHANNEL.png" group-title="RO",|RO| DISCOVERY CHANNEL
+http://bestott.net:80/9122818D7345/C5C866476266/68877
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="RO",|RO| ANIMAL PLANET HD
+http://bestott.net:80/9122818D7345/C5C866476266/68878
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANIMAL PLANET" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ANIMALPLANET.png" group-title="RO",|RO| ANIMAL PLANET
+http://bestott.net:80/9122818D7345/C5C866476266/68879
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI ANIMAL WORLD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGIANIMALWORLD.png" group-title="RO",|RO| DIGI ANIMAL WORLD
+http://bestott.net:80/9122818D7345/C5C866476266/68880
+#EXTINF:-1 tvg-id="" tvg-name="|RO| VIASAT NATURE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/VIASATNATURE.png" group-title="RO",|RO| VIASAT NATURE
+http://bestott.net:80/9122818D7345/C5C866476266/68881
+#EXTINF:-1 tvg-id="" tvg-name="|RO| VIASAT HISTORY" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/VIASATHISTORY.png" group-title="RO",|RO| VIASAT HISTORY
+http://bestott.net:80/9122818D7345/C5C866476266/68882
+#EXTINF:-1 tvg-id="" tvg-name="|RO| VIASAT EXPLORE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/VIASATEXPLORE.png" group-title="RO",|RO| VIASAT EXPLORE
+http://bestott.net:80/9122818D7345/C5C866476266/68884
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HISTORY.png" group-title="RO",|RO| HISTORY
+http://bestott.net:80/9122818D7345/C5C866476266/68885
+#EXTINF:-1 tvg-id="" tvg-name="|RO| HISTORY HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/HISTORY.png" group-title="RO",|RO| HISTORY HD
+http://bestott.net:80/9122818D7345/C5C866476266/68886
+#EXTINF:-1 tvg-id="" tvg-name="##### |RO| MUSIC #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MUSICCHANNEL.HU.png" group-title="RO",##### |RO| MUSIC #####
+http://bestott.net:80/9122818D7345/C5C866476266/68887
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MUSIC CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MUSICCHANNEL.HU.png" group-title="RO",|RO| MUSIC CHANNEL
+http://bestott.net:80/9122818D7345/C5C866476266/68888
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MTV ROCKS" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MTV.png" group-title="RO",|RO| MTV ROCKS
+http://bestott.net:80/9122818D7345/C5C866476266/68889
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MTV HITS" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MTV.png" group-title="RO",|RO| MTV HITS
+http://bestott.net:80/9122818D7345/C5C866476266/68890
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MTV EUROPE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MTV.png" group-title="RO",|RO| MTV EUROPE
+http://bestott.net:80/9122818D7345/C5C866476266/68891
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MTV DANCE" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MTV.png" group-title="RO",|RO| MTV DANCE
+http://bestott.net:80/9122818D7345/C5C866476266/68892
+#EXTINF:-1 tvg-id="" tvg-name="|RO| MOOZ DANCE HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/MOOZDANCE.png" group-title="RO",|RO| MOOZ DANCE HD
+http://bestott.net:80/9122818D7345/C5C866476266/68893
+#EXTINF:-1 tvg-id="" tvg-name="|RO| VH1 CLASSIC" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/1CLASSICS.png" group-title="RO",|RO| VH1 CLASSIC
+http://bestott.net:80/9122818D7345/C5C866476266/68894
+#EXTINF:-1 tvg-id="" tvg-name="##### |RO| SPORTS #####" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/SPORT.RO.png" group-title="RO",##### |RO| SPORTS #####
+http://bestott.net:80/9122818D7345/C5C866476266/68896
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 1 HD RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGISPORT1.png" group-title="RO",|RO| DIGI SPORT 1 HD RO
+http://bestott.net:80/9122818D7345/C5C866476266/68897
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGISPORT1.png" group-title="RO",|RO| DIGI SPORT 1
+http://bestott.net:80/9122818D7345/C5C866476266/68898
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 2 HD RO" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGISPORT2.png" group-title="RO",|RO| DIGI SPORT 2 HD RO
+http://bestott.net:80/9122818D7345/C5C866476266/68899
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGISPORT2.png" group-title="RO",|RO| DIGI SPORT 2
+http://bestott.net:80/9122818D7345/C5C866476266/68900
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGISPORT3.png" group-title="RO",|RO| DIGI SPORT 3
+http://bestott.net:80/9122818D7345/C5C866476266/68901
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI SPORT 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGISPORT4.png" group-title="RO",|RO| DIGI SPORT 4
+http://bestott.net:80/9122818D7345/C5C866476266/68902
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TELEKOM SPORT 1" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-1.png" group-title="RO",|RO| TELEKOM SPORT 1
+http://bestott.net:80/9122818D7345/C5C866476266/150235
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TELEKOM SPORT 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-2.png" group-title="RO",|RO| TELEKOM SPORT 2
+http://bestott.net:80/9122818D7345/C5C866476266/150236
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TELEKOM SPORT 3" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-3.png" group-title="RO",|RO| TELEKOM SPORT 3
+http://bestott.net:80/9122818D7345/C5C866476266/150237
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TELEKOM SPORT 4" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-4.png" group-title="RO",|RO| TELEKOM SPORT 4
+http://bestott.net:80/9122818D7345/C5C866476266/150238
+#EXTINF:-1 tvg-id="" tvg-name="|RO| TELEKOM SPORT 5" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/TELEKOMSPORT-5.png" group-title="RO",|RO| TELEKOM SPORT 5
+http://bestott.net:80/9122818D7345/C5C866476266/150239
+#EXTINF:-1 tvg-id="" tvg-name="|RO| EXTREME SPORTS CHANNEL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/EXTREMESPORT.png" group-title="RO",|RO| EXTREME SPORTS CHANNEL
+http://bestott.net:80/9122818D7345/C5C866476266/68903
+#EXTINF:-1 tvg-id="" tvg-name="|RO| EUROSPORT 1 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="RO",|RO| EUROSPORT 1 HD
+http://bestott.net:80/9122818D7345/C5C866476266/68904
+#EXTINF:-1 tvg-id="" tvg-name="|RO| EUROSPORT 2 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="RO",|RO| EUROSPORT 2 HD
+http://bestott.net:80/9122818D7345/C5C866476266/68905
+#EXTINF:-1 tvg-id="" tvg-name="|RO| EUROSPORT 2" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="RO",|RO| EUROSPORT 2
+http://bestott.net:80/9122818D7345/C5C866476266/68906
+#EXTINF:-1 tvg-id="" tvg-name="|RO| PRO TV INTERNATIONAL" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/PROOTV.png" group-title="RO",|RO| PRO TV INTERNATIONAL
+http://bestott.net:80/9122818D7345/C5C866476266/68909
+#EXTINF:-1 tvg-id="" tvg-name="|RO| AUTO MOTOR SPORT" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/AUTOMOTOR.png" group-title="RO",|RO| AUTO MOTOR SPORT
+http://bestott.net:80/9122818D7345/C5C866476266/68910
+#EXTINF:-1 tvg-id="" tvg-name="|RO| FIGHTBOX" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/FIGHTBOXHD.png" group-title="RO",|RO| FIGHTBOX
+http://bestott.net:80/9122818D7345/C5C866476266/68911
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOKSPORT" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKSPORT.png" group-title="RO",|RO| LOOKSPORT
+http://bestott.net:80/9122818D7345/C5C866476266/68912
+#EXTINF:-1 tvg-id="" tvg-name="|RO| LOOK SPORT HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/LOOKSPORT.png" group-title="RO",|RO| LOOK SPORT HD
+http://bestott.net:80/9122818D7345/C5C866476266/68913
+#EXTINF:-1 tvg-id="" tvg-name="|RO| DIGI 24 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/DIGI24.png" group-title="RO",|RO| DIGI 24 HD
+http://bestott.net:80/9122818D7345/C5C866476266/150242
+#EXTINF:-1 tvg-id="" tvg-name="|RO| ANTENA 3 HD" tvg-logo="http://logo.panel.cx/logo/EUROPE/ROMANIA/ANTENAA3.png" group-title="RO",|RO| ANTENA 3 HD
+http://bestott.net:80/9122818D7345/C5C866476266/150243
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",ANAL
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/anal.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/KmokZz8.jpg" tvg-country="INT" tvg-url="" group-title="XXX",AST TV 1
